@@ -1,0 +1,140 @@
+---
+title: Como se tornar cientista de dados?
+author: Andrei Martins
+date: '2022-05-24'
+slug: como-se-tornar-cientista-de-dados
+categories: ['Data Science']
+tags: ['ciência de dados', 'carreira']
+subtitle: ''
+summary: 'Como parte da missão de transformar a empregabilidade no Brasil, nós da Gupy consultamos nossos cientistas de dados e trouxemos algumas dicas de como você pode se preparar para ingressar nesse incrível mundo da ciência de dados.'
+authors: ['Andrei Martins Silva']
+lastmod: '2022-08-15T19:50:37-03:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+Em 2012, Thomas H. Davenport e D.J. Patil afirmaram que a profissão cientista de dados era a mais sexy do século 21.
+
+De lá pra cá, a profissão que era mais comum nos Estados Unidos se expandiu para Europa, Ásia e também chegou aqui ao Brasil. Hoje, é uma das profissões mais desejadas por empresas e também pelas pessoas no mercado de trabalho.
+
+Dentre os principais motivos para que essa profissão continue tão desejada estão a relação de demanda e oferta de cientistas no mercado, boa remuneração e o fato de que não é necessária uma formação específica para se tornar um. Inclusive, existem cientistas com as mais variadas formações: cientistas da computação, engenheiras, físicos, matemáticos, economistas, biólogos e a lista só cresce.
+
+Agora, você deve estar se perguntando: Ok, mas o que eu preciso para me tornar cientista de dados?
+
+Como parte da missão de transformar a empregabilidade no Brasil, nós da Gupy consultamos nossos cientistas de dados e trouxemos algumas dicas de como você pode se preparar para ingressar nesse incrível mundo da ciência de dados.
+
+# 1. Estude
+
+A ciência de dados é uma profissão que demanda estudo contínuo por conta dos diversos campos em que pode ser aplicada e também pela constante e rápida evolução da área. Mesmo profissionais já consolidados continuam estudando muito como parte do seu dia a dia. Então, não há como fugir! Um passo importante para se tornar cientista de dados é estudar bastante e de forma consistente.
+
+Uma vez que você decidiu estudar ciência de dados, uma dúvida comum é: por onde começar? Nas próximas seções, trazemos um guia de estudos para iniciantes.
+
+## Diagrama de Venn
+
+Uma boa forma de começar a estudar qualquer área de conhecimento é ter uma noção ampla dos tópicos na área de interesse. Aqui, o objetivo não é se aprofundar, mas ter uma visão geral de todo o universo em que se está prestes a explorar.
+
+Drew Conway popularizou um diagrama de venn voltado para a área de ciência de dados em seu artigo intitulado “The Data Science Venn Diagram”. Vamos usar o diagrama para estruturar o nosso guia de estudos:
+
+![Diagrama de Venn](venn.png)
+
+Como se pode ver, o diagrama organiza a ciência de dados em três áreas de conhecimento: 
+
+Habilidades em Programação, Matemática e Estatística e Conhecimento de Domínio (Área fim). A seguir, vamos detalhar um pouquinho cada uma dessas subáreas.
+
+### Conhecimento de Domínio
+
+A ciência de dados é uma disciplina bastante abrangente, podendo ser aplicada em qualquer área da vida humana, incluindo Recursos Humanos, Finanças, Transportes, Engenharias, Biologia, Física, Entretenimento, Direito e muito mais. No entanto, cada área tem suas especificidades e uma mesma solução de ciência de dados pode funcionar em um domínio, mas em outro não. Portanto, é fundamental para a pessoa cientista de dados desenvolver a capacidade de transformar problemas de negócio em problemas de ciência de dados.
+
+Para desenvolver essa capacidade é necessário experiência prática e muito estudo no domínio específico. Então, aqui a recomendação é bastante geral: aprofunde-se no seu domínio de interesse. Por exemplo, se trabalha com finanças, estude finanças, aprenda como o negócio funciona, qual é a cadeia de valor, onde o domínio começa, onde termina e quais são as etapas intermediárias. O mesmo vale para qualquer outro domínio.
+
+### Aprenda uma linguagem de programação
+
+Uma competência fundamental para a pessoa cientista de dados é a capacidade de manipular dados com um computador. Isto será necessário para multiplicar e somar dados, aplicar testes estatísticos e construir gráficos e visualizações.
+
+Nesse contexto, aprender uma linguagem de programação é fundamental. O mercado de ciência de dados é essencialmente dominado por três principais linguagens de programação: SQL, Python e R.
+
+##### SQL
+
+A linguagem de programação SQL (Structured Query Language) como o nome sugere é uma linguagem que permite consultas estruturadas à uma base de dados relacional. Esta linguagem é de extrema importância para os cientistas, pois grande parte dos dados está acessível por meio de SQL.
+
+#### Python / R
+
+A linguagem SQL nos permite obter os dados, mas em geral não nos permite ir muito além disso. Então, quando precisamos manipular os dados de maneiras mais complexas, entram em cena linguagens de programação de propósito geral como Python e R.
+
+A linguagem Python foi criada no início da década de 90 e conquistou bastante espaço no mercado de desenvolvimento de sistemas e sites web. Mais recentemente, passou a dominar também a área de ciência de dados.
+
+Para aprender Python, recomendamos os seguintes recursos:
+
+    Tutorial da Documentação Oficial da Linguagem Python
+    Livro Python para Análise de Dados
+
+Outra linguagem de programação que merece ser mencionada é a linguagem de programação R. Diferentemente da linguagem Python, que teve suas origens na computação, a linguagem R tem suas raízes no domínio da estatística e é muito popular entre cientistas de dados oriundos dessa área.
+
+Para aprender R, recomendamos o seguinte recurso:
+
+    R para Ciência de Dados
+
+Ambas as linguagens permitem a manipulação de dados complexos, exploração de dados, análises, construção de modelos e testes estatísticos. No entanto, vale ressaltar que a maioria dos times de ciência de dados têm Python como sua linguagem de programação principal e, por isso, Python tem documentações mais diversas e robustas, mais exemplos, mais bibliotecas e mais infraestruturas pensadas para essa linguagem, o que pode tornar mais fácil aprendê-la de forma autônoma. No entanto, se você está no início da jornada em Ciência de Dados, recomendamos a escolha de apenas uma linguagem e dedicação total a ela, ao invés de tentar aprender as duas ao mesmo tempo. O importante é ter domínio da atividade de programação.
+
+#### Matemática e Estatística
+
+Usualmente, as soluções de ciências de dados são construídas a partir de conceitos fundamentais encontrados na matemática e estatística. Especificamente, soluções modernas de ciência de dados têm suas bases nas disciplinas de Álgebra Linear, Cálculo, Probabilidade e Estatística. Então, para se tornar uma boa cientista de dados, é necessário ter uma ótima base teórica nessas disciplinas.
+
+Para aprender Álgebra Linear, recomendamos os seguintes recursos:
+
+    Curso de Álgebra Linear do MIT (em inglês)
+    Livro de Álgebra Linear (por Gilbert Strang)
+    Álgebra Linear para Machine Learning (Coursera)
+
+No que diz respeito a cálculo, a pessoa cientista de dados se beneficiará muito de um curso que trate de pré-cálculo (funções, limites, etc.), cálculo I e II (derivadas, derivadas parciais e integrais). Claro que, no dia 1, não é mandatório que você seja especialista em derivadas e integrais, mas quanto mais você souber deste assunto, mais fácil será para você entender os atraentes modelos de aprendizagem de máquina como regressões logísticas e redes neurais.
+
+Recomendamos os seguintes recursos para iniciantes:
+
+    Curso de Cálculo I - Unicamp (Playlist no Youtube)
+    Introdução a Cálculo - Universidade de Sydney (Coursera)
+
+Por fim, probabilidade e estatística formam um bloco fundamental no dia a dia do cientista de dados. Precisamos de probabilidade para entender como podemos escolher um número de forma aleatória ou às vezes compreender um fenômeno que acontece de forma aleatória. Também precisamos entender bem a probabilidade porque técnicas da área de ciência de dados, como Machine Learning (aprendizagem de máquina em português) trabalham num paradigma probabilístico, e não determinístico como a engenharia de software mais tradicional. Compreender essas questões ajuda na compreensão de conceitos e aplicações dessas técnicas.
+
+Quando precisamos tomar decisões importantes de negócio com o uso de dados, a estatística nos traz as ferramentas necessárias para tomar as melhores decisões. Assim, conhecer distribuições de probabilidade, estatística descritiva e inferencial, escolas frequentistas e bayesiana, são conhecimentos bastante importantes de se ter.
+
+Recomendamos os seguintes recursos para iniciantes:
+
+    Probabilidade. Um curso em nível intermediário
+    Estatística Básica - Wilton Bussab e Pedro Morettin
+    Statistics with R - Coursera - Duke University (em inglês)
+
+# 2. Coloque tudo em prática trabalhando em projetos
+
+Os estudos nas áreas do Diagrama de Venn fornecem a base necessária para executar cada uma dessas macro atividades de ciência de dados.
+
+De forma geral, toda solução de ciência de dados envolve as seguintes macro atividades conforme a imagem abaixo: coletar dados, organizá-los, transformá-los, visualizá-los, modelá-los e, finalmente, comunicar os resultados.
+
+![Processo de Ciência de Dados](processo-data-science.png)
+
+Na prática, esse processo é bastante não linear, significando que há muitas idas e vindas de uma atividade para a outra e alguns problemas demandam mais esforço em uma etapa do que em outra.
+
+Construir projetos de ponta a ponta é uma ótima maneira de pôr em prática os conhecimentos adquiridos de forma integrada - programação, estatística e aprendizado de máquina de uma vez só - e é o mais próximo que você vai chegar do trabalho do cientista de dados no dia a dia. Além do aprendizado prático, desenvolver projetos contribui para que você também forme um portfólio de projetos.
+
+Uma pergunta comum quando se fala de projetos pessoais é: Mas como escolher um bom projeto?
+
+A resposta para a pergunta anterior é: qualquer projeto serve. Use a sua criatividade e busque fazer coisas alinhadas aos seus interesses e objetivos: Gosta de games? Que tal um projeto de aprendizado por reforço em jogos de Atari? Gosta de investir em produtos financeiros? Que tal construir um robô de investimento? Conhece algum problema em alguma área incomum? Pense em como seria possível construir uma solução de dados para esse problema.
+
+Se você não conseguir pensar em algum projeto interessante, não se desespere! Aqui vão alguns recursos que podem ajudar com a imaginação:
+
+    https://www.kaggle.com/
+    https://github.com/rfordatascience/tidytuesday
+
+À medida que você for concluindo projetos pessoais, pode ser legal reuni-los em um único lugar. O mercado costuma chamar isso de portfólio de projetos. O github.com é uma excelente ferramenta para organizar portfólios de projetos de ciência de dados e dar visibilidade a esses projetos para o mundo. Por exemplo, aqui está a página de um de nossos cientistas.
+
+# 3. Consiga uma mentoria
+
+Estudar e construir projetos de ciência de dados pode ser uma tarefa bastante desafiadora. Sendo assim, qualquer pessoa pode se beneficiar de uma ajudinha de alguém que já passou por isso. Por esse motivo, procurar uma pessoa mentora que já tenha atuado como cientista pode ser uma alternativa interessante para te ajudar com alguns atalhos na jornada de ciência de dados. Essa pessoa deverá ser capaz de te apresentar conteúdos, ideias de como resolver problemas específicos e mentoria de carreira em geral.
+
+# TODO: Alguma conclusão aqui no lugar dos conselhos dos gupiers?
+
+
+
